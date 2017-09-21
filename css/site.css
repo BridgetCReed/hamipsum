@@ -104,13 +104,28 @@ section.text {
   color: white;
 }
 
-.buttons li, button {
+.buttons li {
   display: inline-block;
-  font-size: 32px;
+  font-size: 3em;
   margin-right: 3%;
   background: transparent;
   font-family: 'TrajanProRegular';
   color: black;
+  text-transform: uppercase;
+  padding: 5px;
+  width: 29%;
+  text-align: center;
+  border: none;
+}
+
+button {
+  display: inline-block;
+  font-size: 2em;
+  margin-right: 3%;
+  background: transparent;
+  font-family: 'TrajanProRegular';
+  color: white;
+  background: black;
   text-transform: uppercase;
   padding: 5px;
   width: 29%;
