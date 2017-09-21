@@ -135,7 +135,7 @@ button.copy {
 }
 button.copy.active {
   display: block !important;
-  margin: 0 auto;
+  margin: 40px auto 0px;
 }
 
 
