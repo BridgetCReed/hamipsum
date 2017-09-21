@@ -121,7 +121,7 @@ section.text {
 }
 
 li img {
-  max-width: 15%;
+  max-width: 14%;
 }
 
 li.active {
@@ -149,6 +149,9 @@ center {
 }
 
 @media screen and (max-width:610px) {
+  header img {
+    width: 100%;
+  }
   h2 {
     padding-left: 0px;
   }
