@@ -144,7 +144,7 @@ button.copy {
   display: none;
 }
 button.copy.active {
-  display: block !important
+  display: block !important;
   margin: 0 auto;
 }
 
