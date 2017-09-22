@@ -46,9 +46,9 @@ body {
   width: 100%;
   background: black;
 }
-.col-md-12 {
+/* .col-md-12 {
   padding: 0px !important;
-}
+} */
 header {
   width: 100%;
   padding-bottom: 2.5%;
