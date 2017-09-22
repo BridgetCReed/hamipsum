@@ -47,7 +47,7 @@ body {
   padding-right: 5%;
   background-image: url('../img/bg-gold.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100% 100%;
   background-attachment: fixed;
   height: 100%;
   width: 100%;
