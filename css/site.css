@@ -41,24 +41,29 @@ html {
   width: 100%;
 }
 body {
-  font-family: 'GillSansBoldCond';
-  padding-top:5%;
-  padding-left: 5%;
-  padding-right: 5%;
-  background-image: url('../img/bg-gold.jpg');
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
-  background-attachment: fixed;
+  font-family: 'TrajanProBold';
   height: 100%;
   width: 100%;
+  background: black;
+}
+.col-md-12 {
+  padding: 0px !important;
 }
 header {
   width: 100%;
   padding-bottom: 2.5%;
-  text-align: center
+  text-align: center;
+  padding: 5%;
+  background-image: url('../img/bg-gold.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
 }
 header img {
   width: 50%;
+}
+div.random {
+  background: black;
 }
 h1 {
   font-size: 100px;
@@ -86,7 +91,7 @@ h3 {
   padding-top: 20px;
 }
 p {
-  font-family: 'GillSansBoldCond';
+  font-family: 'TrajanProBold';
   font-size: 20px;
   line-height: 1em;
   margin-bottom: 10px;
@@ -125,11 +130,11 @@ button {
   margin-right: 3%;
   background: transparent;
   font-family: 'TrajanProRegular';
-  color: white;
-  background: black;
+  color: black;
+  background-image: url('../img/bg-gold.jpg');
+  background-repeat: no-repeat;
   text-transform: uppercase;
   padding: 5px;
-  width: 29%;
   text-align: center;
   border: none;
 }
