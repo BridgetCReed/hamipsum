@@ -166,6 +166,9 @@ button.copy.active {
   margin: 40px auto 0px;
 }
 
+section.text {
+  margin-top: 40px;
+}
 
 
 
@@ -199,7 +202,6 @@ center {
     display: none !important;
   }
   section.text {
-    margin-top: 40px;
     margin-bottom: 40px;
   }
 }
