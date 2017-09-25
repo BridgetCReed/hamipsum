@@ -109,7 +109,9 @@ section.text {
   text-align: left;
   color: white;
 }
-
+ul.buttons {
+  padding-left: 0px;
+}
 .buttons li {
   display: inline-block;
   font-size: 3em;
@@ -163,6 +165,7 @@ button.copy.active {
   display: block !important;
   margin: 40px auto 0px;
 }
+
 
 
 
