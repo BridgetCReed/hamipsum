@@ -9,10 +9,6 @@ $(document).ready(function() {
     $('.buttons li').removeClass('active');
     $(selector).addClass('active');
 
-    $('img.gif01').removeClass('active');
-    $('img.gif01').addClass('active');
-
-
     $('button.copy').removeClass('active');
     $('button.copy').addClass('active');
   }
@@ -65,7 +61,7 @@ $(document).ready(function() {
   }
 
   toggleIpsum('.short', 1, 8);
-  toggleIpsum('.medium', 3, 5);
+  toggleIpsum('.medium', 3, 8);
   toggleIpsum('.long', 5, 5);
   
 });
