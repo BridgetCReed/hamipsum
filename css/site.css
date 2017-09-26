@@ -133,8 +133,7 @@ button {
   background: transparent;
   font-family: 'TrajanProRegular';
   color: black;
-  background-image: url('../img/bg-gold.jpg');
-  background-repeat: no-repeat;
+  background: white;
   text-transform: uppercase;
   padding: 5px;
   text-align: center;
